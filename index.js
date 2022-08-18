@@ -91,3 +91,19 @@ const writeFile = data => {
         }
     })
 };  
+        // function call to initialize program
+        questions()
+
+        // getting user answers 
+        .then(answers => {
+            return generatePage(answers);
+        }) 
+        // using data to display on page 
+        .then(data => {
+            return writeFile(data);
+        })
+
+        // for errors that occur
+        .catch(err => {
+            console.log(err)
+})
