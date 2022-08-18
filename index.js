@@ -62,5 +62,32 @@ const questions = () => {
                 return false; 
             }
         }
-    }, 
-} 
+    },
+    {
+        type: 'input',
+        name: 'test', 
+        message: 'What command should be run to run tests?',
+        default: 'npm test'
+    },
+    {
+        type: 'input',
+        name: 'contributors',
+        message: 'Things user needs to know about contributing to the repo?'
+    }
+]);
+}; 
+// function to write README file
+const writeFile = data => {
+    fs.writeFile('README.md', data, err => {
+
+        // IF an error occurs;
+        if (err) {
+            console.log(err);
+            return;
+
+        // when the README has been created 
+        } else {
+            console.log("Wow! Your README file has been succesfully created!")
+        }
+    })
+};  
