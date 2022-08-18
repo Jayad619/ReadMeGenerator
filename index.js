@@ -2,7 +2,7 @@
 const fs = require('fs'); 
 const inquirer = require('inquirer'); 
 
-// linking to page where the README is developed 
+// linking page to README
 const generatePage = require('./utils/generateMarkdown.js');
 
 // array of questions for user
@@ -103,7 +103,7 @@ const writeFile = data => {
             return writeFile(data);
         })
 
-        // for errors that occur
+        // function that catches errors 
         .catch(err => {
             console.log(err)
-})
+}) 
