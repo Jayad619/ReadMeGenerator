@@ -15,7 +15,7 @@ const generateMarkdown = data => {
     * [Tests](#tests)
     
     ## Installation 
-    ${data.install}
+    ${data.installation}
     ## Usage 
     ${data.usage}
     ## License 

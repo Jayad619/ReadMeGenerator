@@ -1,5 +1,5 @@
-# jayads work
-    ![Github licence](http://img.shields.io/badge/license-[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)-blue.svg)
+# sjsjsj
+    ![Github licence](http://img.shields.io/badge/license-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)-blue.svg)
     
     ## Description 
     undefined
@@ -12,15 +12,15 @@
     * [Tests](#tests)
     
     ## Installation 
-    undefined
+    sjsjsjdj
     ## Usage 
-    you dont
+    sjsjjs
     ## License 
-    This project is license under [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+    This project is license under [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
     ## Contributing 
-    dont look at it
+    djdjdj
     ## Tests
-    npm test
+    djjdj
     ## Questions
-    If you have any questions about this projects, please contact me directly at jajajaj. You can view more of my projects at https://github.com/jayad619.
+    If you have any questions about this projects, please contact me directly at jjsjj. You can view more of my projects at https://github.com/jjjj.
   
