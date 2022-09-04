@@ -52,6 +52,11 @@ const questions = () => {
     },
     {
         type: "input",
+        name: "description",
+        message: "Enter a detailed description of your application",
+      },
+    {
+        type: "input",
         name: "installation",
         message: "Enter any installation instructions for your application",
       },
