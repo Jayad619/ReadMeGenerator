@@ -18,7 +18,7 @@ answer the questions for a cool readme file
 ## License 
 This project is license under [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## Contributing 
-    ayads repo only
+Jayads repo only
 ## Tests
 npm test
 ## Questions
