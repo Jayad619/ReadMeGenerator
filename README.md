@@ -1,8 +1,8 @@
-# f3ef3f
-![Github licence](http://img.shields.io/badge/license-[![License](https://img.shields.io/badge/License-EPL_1.0-red.svg)](https://opensource.org/licenses/EPL-1.0)-blue.svg)
+# readme generator
+![Github licence](http://img.shields.io/badge/license-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensourceorg/licenses/MIT)-blue.svg)
     
 ## Description 
-3rg3g34
+creates readme for projects
 ## Table of Contents
 * [Installation](#installation)
 * [License](#license)
@@ -12,15 +12,17 @@
 * [Tests](#tests)
     
 ## Installation 
-3f34g34
+node index.js
 ## Usage 
-3f34g3
+answer the questions for a cool readme file
 ## License 
-This project is license under [![License](https://img.shields.io/badge/License-EPL_1.0-red.svg)](https://opensource.org/licenses/EPL-1.0)
+This project is license under [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## Contributing 
-3f34t43
+    ayads repo only
 ## Tests
-c3f3
+npm test
 ## Questions
-If you have any questions about this projects, please contact me directly at ef3f34. You can view more of my projects at https://github.com/dded32.
-  
+If you have any questions about this projects, please contact me directly at jayadusama@hotmail.co.uk. You can view more of my projects at https://github.com/Jayad619.
+
+## Link to video
+https://drive.google.com/file/d/1Fy3AOnqoa4aHnTcu3CbdqrVcpWTxx7uW/view?usp=sharing  
